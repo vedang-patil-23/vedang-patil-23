@@ -3,7 +3,7 @@ Here’s a polished version:<br><br>🔭 Currently: I’m diving into machine le
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedangrpatil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedang-patil23)[![Profile](https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vedangpatil.netlify.app) [![Blog Site](https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://disruptblog.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedangrpatil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedang-patil23)[![Profile](https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vedangpatil.netlify.app) [![Blog Site](https://img.shields.io/badge/Blog_Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://disruptblog.netlify.app)
 
 
 # 💻 Tech Stack:
