@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently: I’m diving into machine learning and deep learning projects, exploring intersections where AI meets fields like cybersecurity & blockchain. I am also curious about Algo-Trading.<br><br>🤝 Looking to Connect: I'm eager to accelerate my growth in AI, cybersecurity, and blockchain, and would love to collaborate with experts or enthusiasts in these areas.<br><br>🌱 Learning Journey: I'm also building skills in app development and strengthening my proficiency in languages like Python, Java, SQL, and more.<br><br>⚡ Fun Fact: I have my own blog website!
+🔭 Currently: I’m diving into machine learning and deep learning projects, exploring intersections where AI meets fields like cybersecurity & blockchain. I am also curious about Algo-Trading.<br><br>🤝 Looking to Connect: I'm eager to accelerate my growth in AI, cybersecurity, and blockchain, and would love to collaborate with experts or enthusiasts in these areas.<br><br>🌱 Learning Journey: I'm also building skills in app development and strengthening my proficiency in languages like C, C++, Python, Java, SQL, and more.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedangrpatil) 
